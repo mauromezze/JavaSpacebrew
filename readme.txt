@@ -1,5 +1,7 @@
 Eclipse project of a pure Java (= P5 independent) Spacebrew library.
 
+Adapted from https://github.com/spacebrew/spacebrewP5/archive/master.zip
+
 It relies on the Spacebrew server and two additional libraries
 (json4processing.jar and WebSocket.jar), also included in the lib directory.
 
